@@ -1,0 +1,123 @@
+<html lang="ja"><head>
+	<meta name="robots" content="noindex,nofollow,none,noarchive">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<title>生徒入室画面 クリック！自立学習応援プログラム すらら</title>
+	<link rel="stylesheet" href="https://lms.catchon.jp/css/login_form.css" type="text/css">
+	<script type="text/javascript" src="https://lms.catchon.jp/javascript/userAgent.js"></script> 
+	<script type="text/javascript" src="https://lms.catchon.jp/student/javascript/CheckIfFlashEnabled.js"></script>
+	<script type="text/javascript" src="https://lms.catchon.jp/javascript/login.js"></script>
+	<script type="text/javascript" src="https://lms.catchon.jp/javascript/html5_tools.js"></script>
+	<script type="text/javascript" src="https://lms.catchon.jp/javascript/keyEventChecker.js"></script>
+	<script type="text/javascript" src="https://lms.catchon.jp/javascript/announcement.js"></script>
+	<style>
+	.kokuchibun-content{ display:none; }
+	.kokuchibun-visible .kokuchibun-content{ display:block !important; }
+	.kokuchibun-visible .syosai-open{ display:none; }
+	.kokuchibun2-content{ display:none; }
+	.kokuchibun2-visible .kokuchibun2-content{ display:block !important; }
+	.kokuchibun2-visible .syosai2-open{ display:none; }
+	</style>
+	<script> function kokuchibun_toggle(el) { el.parentNode.parentNode.classList.toggle("kokuchibun-visible"); } </script>
+	<script> function kokuchibun_toggle2(el) { el.parentNode.parentNode.classList.toggle("kokuchibun2-visible"); } </script>
+</head>
+<body onload="checkAndSetCookie();  return false;"> <noscript>This site attempts to protect users against <a href="https://www.owasp.org/index.php/Cross-Site_Request_Forgery_%28CSRF%29">
+	クロスサイトリクエストフォージ</a>攻撃。そのためには、ウェブブラウザでJavaScriptを有効にする必要があります。そうしないと、このサイトが正しく機能しません。
+	 See details of your web browser for how to enable JavaScript.</noscript>
+<div id="login">
+ 
+<form action="/student/login.php" method="POST" autocomplete="off" id="login_form">
+<input type="hidden" name="mode" value="login">
+<input type="hidden" name="login_type" value="home">
+<input type="hidden" name="win_open_flg" value="">
+<input type="hidden" name="html5_canvas" id="html5_canvas" value="true">
+<input type="hidden" name="molee_ver" id="molee_ver" value="">
+ 
+<div style="margin-top:80px;text-align: -webkit-center;">
+	<div style="writing-mode:vertical-rl;">
+		<img src="https://lms.catchon.jp/student/images/button/surala_logo_login.png" alt="クリック！自立学習応援プログラムすらら" algin="center">
+	</div>
+</div>
+<br>
+<div id="error">
+<!--ERROR-->
+</div>
+<br>
+ 
+<div class="display-mac" style="margin: 5px auto; border: 1px solid #FF0000; border-image: none; width: 550px; text-align: left; background-color:#fff8e7;">
+	<br>
+	<div style="margin: 0px auto; width: 500px; text-align: left;">
+		<span style="font-weight:bold;font-size: 16px;">iPadでSafariご利用の際には設定変更をお願いいたします。</span><br> 
+		<a class="syosai-open" href="javascript:void(0);" onclick="kokuchibun_toggle(this);">&gt;&gt;設定方法</a>
+	</div>
+	<div style="margin: 0px auto; width: 500px; text-align: left;" class="kokuchibun-content">
+		<span style="font-weight:bold;font-size: 12px; color: #000000;">
+			iPad用ブラウザSafariのバージョンアップにより、 <br>
+			iPadで「すらら」をご利用いただく場合、iPadの設定変更が必要になりました。 <br>
+			 <br>
+			設定変更をしない場合、「メッセージ機能」・「AIサポーター」・「ゲーミフィケーション機能」 <br>
+			などの機能が正しく動作しない可能性がございます。 <br>
+			以下の【設定の変更方法】をご覧いただき、 <br>
+			設定変更を行っていただきますよう、お願い申し上げます。 <br>
+			 <br>
+			【設定の変更方法】 <br>
+			ホーム画面の[設定]の[Safari]で <br>
+			[サイト越えトラッキングを防ぐ]の設定を"off"に設定 <br>
+			 <br>
+			※ご不明な点やご質問のお問合せはカスタマーセンターまでご連絡ください。 <br>
+			customer@surala.jp <br>
+		</span>
+		<a href="javascript:void(0);" onclick="kokuchibun_toggle(this)">閉じる</a>
+	</div>
+</div>
+	<br>
+ 
+<table>
+ 
+  <tbody><tr>
+    <td class="item_name" style="font-size:25px; text-align:left;">すららID</td>
+	<td style="height:40px;"><input size="20" type="text" name="id" value="" tabindex="1" id="enter_id" style="ime-mode:disabled; width:400px; height:30px;"></td>
+  </tr>
+  <tr>
+    <td class="item_name" style="font-size:25px; text-align:left;">パスワード</td>
+	<td style="height:40px;"><input size="20" type="password" name="pwd" value="" tabindex="2" id="enter_password" style="ime-mode:inactive; width:400px; height:30px;"></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center; padding-top:20px; cursor:pointer;">
+      <input tabindex="3" onclick="surala_login(); return false;" type="image" src="https://lms.catchon.jp/student/images/button/student_login_button.png" value="ログイン">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="server_status" style="text-align: center; padding-bottom: 70px; "><a style="color:#5b9bd5; " href="https://sites.google.com/surala.jp/status" target="_blank" title="新しいタブで外部のサイトが開きます">🚥 <ruby>稼働状況<rt>かどうじょうきょう</rt>/Status</ruby></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center; padding-top:0px; cursor:pointer;">
+      <a href="../teacher/information/20210113/【すららネット】タブレットで学習をするときの注意点.pdf" target="_blank">
+      <img src="https://lms.catchon.jp/student/images/button/btn_notesontablet.gif" value="タブレットで学習する際の注意点" width="308"></a>
+    </td>
+  </tr>
+</tbody></table>
+</form>
+ 
+<table style="margin:0 auto;">
+  <tbody><tr><td><a id="sso_google" href="https://lms.catchon.jp/ext/extarnal_sso.php?type=google&amp;user=student" style="margin-left:40px;"></a></td>
+	<td><a id="sso_microsoft" href="https://lms.catchon.jp/ext/extarnal_sso.php?type=microsoft&amp;user=student" style="margin-left:10px;"></a></td></tr>
+  <tr><td colspan="2"><span style="font-size: 14px; color: #000000;">※ Gmail アカウントでログインしたい方は先生へお問い合わせください。</span></td></tr>
+  <tr><td colspan="2"><span style="font-size: 14px; color: #000000;">※ Microsoft アカウントでログインしたい方は先生へお問い合わせください。</span></td></tr>
+</tbody></table>
+</div>
+<script type="text/javascript">
+  document.getElementById("html5_canvas").value = isCanvasSupported();
+</script>
+ 
+<script type="text/javascript">announcement_display_user_agent();</script>
+ 
+<input type="hidden" id="csrfp_hidden_data_token" value="csrfp_token">
+<input type="hidden" id="csrfp_hidden_data_urls" value="[]"><script type="text/javascript" src="https://lms.catchon.jp/javascript/csrfprotector.js"></script>
+ 
+ 
+ 
+</body><!--AWSMONITORINGTAG--></html>

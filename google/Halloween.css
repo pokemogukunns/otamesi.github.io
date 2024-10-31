@@ -729,48 +729,786 @@
   height: 640px;
 }
 
-          .WHIRLPOOL00{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) 0 0/2046px 1955px no-repeat;width:640px;height:640px}.WHIRLPOOL01_size{width:640px;height:640px}.WHIRLPOOL01_offset{background-position:-643px 0;-webkit-background-size:2046px 1955px;background-size:2046px 1955px;width:640px;height:640px}
-          .WHIRLPOOL01{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -643px 0/2046px 1955px no-repeat;width:640px;height:640px}.WHIRLPOOL02_size{width:640px;height:640px}.WHIRLPOOL02_offset{background-position:-1286px 0;-webkit-background-size:2046px 1955px;background-size:2046px 1955px;width:640px;height:640px}
-          .WHIRLPOOL02{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -1286px 0/2046px 1955px no-repeat;width:640px;height:640px}.WHIRLPOOL03_size{width:640px;height:640px}.WHIRLPOOL03_offset{background-position:0 -643px;-webkit-background-size:2046px 1955px;background-size:2046px 1955px;width:640px;height:640px}
-          .WHIRLPOOL03{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) 0 -643px/2046px 1955px no-repeat;width:640px;height:640px}.WHIRLPOOL04_size{width:640px;height:640px}.WHIRLPOOL04_offset{background-position:-643px -643px;-webkit-background-size:2046px 1955px;background-size:2046px 1955px;width:640px;height:640px}
-          .WHIRLPOOL04{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -643px -643px/2046px 1955px no-repeat;width:640px;height:640px}.WHIRLPOOL05_size{width:640px;height:640px}.WHIRLPOOL05_offset{background-position:-1286px -643px;-webkit-background-size:2046px 1955px;background-size:2046px 1955px;width:640px;height:640px}
-          .WHIRLPOOL05{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -1286px -643px/2046px 1955px no-repeat;width:640px;height:640px}.WHIRLPOOL06_size{width:640px;height:640px}.WHIRLPOOL06_offset{background-position:0 -1286px;-webkit-background-size:2046px 1955px;background-size:2046px 1955px;width:640px;height:640px}
-          .WHIRLPOOL06{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) 0 -1286px/2046px 1955px no-repeat;width:640px;height:640px}.WHIRLPOOL07_size{width:640px;height:640px}.WHIRLPOOL07_offset{background-position:-643px -1286px;-webkit-background-size:2046px 1955px;background-size:2046px 1955px;width:640px;height:640px}
-          .WHIRLPOOL07{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -643px -1286px/2046px 1955px no-repeat;width:640px;height:640px}.WHIRLPOOL08_size{width:640px;height:640px}.WHIRLPOOL08_offset{background-position:-1286px -1286px;-webkit-background-size:2046px 1955px;background-size:2046px 1955px;width:640px;height:640px}
-          .WHIRLPOOL08{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -1286px -1286px/2046px 1955px no-repeat;width:640px;height:640px}
-          .MOMO_SPRITE_0{background-image:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png);background-repeat:no-repeat}.SPELL_BLUE_FINAL00_size{width:186px;height:165px}.SPELL_BLUE_FINAL00_offset{background-position:-193px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_BLUE_FINAL00{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -193px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_BLUE_FINAL01_size{width:186px;height:165px}.SPELL_BLUE_FINAL01_offset{background-position:-193px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_BLUE_FINAL01{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -193px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_BLUE_FINAL02_size{width:186px;height:165px}.SPELL_BLUE_FINAL02_offset{background-position:-382px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_BLUE_FINAL02{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -382px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_BLUE_FINAL03_size{width:186px;height:165px}.SPELL_BLUE_FINAL03_offset{background-position:-571px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_BLUE_FINAL03{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -571px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_BLUE_FINAL04_size{width:186px;height:165px}.SPELL_BLUE_FINAL04_offset{background-position:-760px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_BLUE_FINAL04{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -760px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_BLUE_FINAL05_size{width:186px;height:165px}.SPELL_BLUE_FINAL05_offset{background-position:-949px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_BLUE_FINAL05{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -949px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_BLUE_FINAL06_size{width:186px;height:165px}.SPELL_BLUE_FINAL06_offset{background-position:-949px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_BLUE_FINAL06{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -949px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CIRCLE_FINAL00_size{width:186px;height:165px}.SPELL_CIRCLE_FINAL00_offset{background-position:-1138px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CIRCLE_FINAL00{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1138px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CIRCLE_FINAL01_size{width:186px;height:165px}.SPELL_CIRCLE_FINAL01_offset{background-position:-1138px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CIRCLE_FINAL01{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1138px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CIRCLE_FINAL02_size{width:186px;height:165px}.SPELL_CIRCLE_FINAL02_offset{background-position:-1327px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CIRCLE_FINAL02{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1327px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CIRCLE_FINAL03_size{width:186px;height:165px}.SPELL_CIRCLE_FINAL03_offset{background-position:-1516px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CIRCLE_FINAL03{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1516px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CIRCLE_FINAL04_size{width:186px;height:165px}.SPELL_CIRCLE_FINAL04_offset{background-position:-1705px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CIRCLE_FINAL04{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1705px -172px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CIRCLE_FINAL05_size{width:186px;height:165px}.SPELL_CIRCLE_FINAL05_offset{background-position:-193px -340px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CIRCLE_FINAL05{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -193px -340px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CIRCLE_FINAL06_size{width:186px;height:165px}.SPELL_CIRCLE_FINAL06_offset{background-position:-382px -340px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CIRCLE_FINAL06{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -382px -340px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CIRCLE_FINAL07_size{width:186px;height:165px}.SPELL_CIRCLE_FINAL07_offset{background-position:-571px -340px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CIRCLE_FINAL07{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -571px -340px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CONJURING_FINAL00_size{width:186px;height:165px}.SPELL_CONJURING_FINAL00_offset{background-position:-760px -340px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CONJURING_FINAL00{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -760px -340px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CONJURING_FINAL01_size{width:186px;height:165px}.SPELL_CONJURING_FINAL01_offset{background-position:-949px -340px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CONJURING_FINAL01{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -949px -340px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CONJURING_FINAL02_size{width:186px;height:165px}.SPELL_CONJURING_FINAL02_offset{background-position:-1138px -340px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CONJURING_FINAL02{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1138px -340px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CONJURING_FINAL03_size{width:186px;height:165px}.SPELL_CONJURING_FINAL03_offset{background-position:-1327px -340px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CONJURING_FINAL03{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1327px -340px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CONJURING_FINAL04_size{width:186px;height:165px}.SPELL_CONJURING_FINAL04_offset{background-position:-1516px -340px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CONJURING_FINAL04{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1516px -340px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_CONJURING_FINAL05_size{width:186px;height:165px}.SPELL_CONJURING_FINAL05_offset{background-position:-1705px -340px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}
-          .SPELL_CONJURING_FINAL05{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1705px -340px/2040px 2036px no-repeat;width:186px;height:165px}.MOMO_ENTRANCE00_size{width:164px;height:216px}.MOMO_ENTRANCE00_offset{background-position:-756px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE00{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -756px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE01_size{width:164px;height:216px}.MOMO_ENTRANCE01_offset{background-position:-923px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE01{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -923px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE02_size{width:164px;height:216px}.MOMO_ENTRANCE02_offset{background-position:-1090px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE02{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1090px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE03_size{width:164px;height:216px}.MOMO_ENTRANCE03_offset{background-position:-756px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE03{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -756px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE04_size{width:164px;height:216px}.MOMO_ENTRANCE04_offset{background-position:-923px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE04{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -923px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE05_size{width:164px;height:216px}.MOMO_ENTRANCE05_offset{background-position:-1090px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE05{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1090px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE06_size{width:164px;height:216px}.MOMO_ENTRANCE06_offset{background-position:-756px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE06{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -756px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE07_size{width:164px;height:216px}.MOMO_ENTRANCE07_offset{background-position:-923px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE07{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -923px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE08_size{width:164px;height:216px}.MOMO_ENTRANCE08_offset{background-position:-1090px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE08{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1090px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE09_size{width:164px;height:216px}.MOMO_ENTRANCE09_offset{background-position:-1257px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE09{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1257px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE10_size{width:164px;height:216px}.MOMO_ENTRANCE10_offset{background-position:-1424px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE10{background:url(https://www.google.co.j/logos/2024/halloween24/rc1/momo-sprite-0.png) -1424px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE11_size{width:164px;height:216px}.MOMO_ENTRANCE11_offset{background-position:-1591px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
+.WHIRLPOOL00 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) 0 0 / 2046px 1955px no-repeat;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL01_size {
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL01_offset {
+  background-position: -643px 0;
+  -webkit-background-size: 2046px 1955px;
+  background-size: 2046px 1955px;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL01 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -643px 0 / 2046px 1955px no-repeat;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL02_size {
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL02_offset {
+  background-position: -1286px 0;
+  -webkit-background-size: 2046px 1955px;
+  background-size: 2046px 1955px;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL02 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -1286px 0 / 2046px 1955px no-repeat;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL03_size {
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL03_offset {
+  background-position: 0 -643px;
+  -webkit-background-size: 2046px 1955px;
+  background-size: 2046px 1955px;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL03 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) 0 -643px / 2046px 1955px no-repeat;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL04_size {
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL04_offset {
+  background-position: -643px -643px;
+  -webkit-background-size: 2046px 1955px;
+  background-size: 2046px 1955px;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL04 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -643px -643px / 2046px 1955px no-repeat;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL05_size {
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL05_offset {
+  background-position: -1286px -643px;
+  -webkit-background-size: 2046px 1955px;
+  background-size: 2046px 1955px;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL05 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -1286px -643px / 2046px 1955px no-repeat;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL06_size {
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL06_offset {
+  background-position: 0 -1286px;
+  -webkit-background-size: 2046px 1955px;
+  background-size: 2046px 1955px;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL06 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) 0 -1286px / 2046px 1955px no-repeat;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL07_size {
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL07_offset {
+  background-position: -643px -1286px;
+  -webkit-background-size: 2046px 1955px;
+  background-size: 2046px 1955px;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL07 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -643px -1286px / 2046px 1955px no-repeat;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL08_size {
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL08_offset {
+  background-position: -1286px -1286px;
+  -webkit-background-size: 2046px 1955px;
+  background-size: 2046px 1955px;
+  width: 640px;
+  height: 640px;
+}
+
+.WHIRLPOOL08 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite.png) -1286px -1286px / 2046px 1955px no-repeat;
+  width: 640px;
+  height: 640px;
+}
+.MOMO_SPRITE_0 {
+  background-image: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png);
+  background-repeat: no-repeat;
+}
+
+.SPELL_BLUE_FINAL00_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL00_offset {
+  background-position: -193px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL00 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -193px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL01_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL01_offset {
+  background-position: -193px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL01 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -193px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL02_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL02_offset {
+  background-position: -382px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL02 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -382px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL03_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL03_offset {
+  background-position: -571px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL03 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -571px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL04_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL04_offset {
+  background-position: -760px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL04 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -760px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL05_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL05_offset {
+  background-position: -949px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL05 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -949px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL06_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL06_offset {
+  background-position: -949px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_BLUE_FINAL06 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -949px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL00_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL00_offset {
+  background-position: -1138px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+.SPELL_CIRCLE_FINAL00 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1138px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL01_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL01_offset {
+  background-position: -1138px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL01 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1138px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL02_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL02_offset {
+  background-position: -1327px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL02 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1327px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL03_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL03_offset {
+  background-position: -1516px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL03 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1516px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL04_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL04_offset {
+  background-position: -1705px -172px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL04 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1705px -172px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL05_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL05_offset {
+  background-position: -193px -340px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL05 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -193px -340px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL06_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL06_offset {
+  background-position: -382px -340px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL06 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -382px -340px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL07_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL07_offset {
+  background-position: -571px -340px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CIRCLE_FINAL07 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -571px -340px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL00_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL00_offset {
+  background-position: -760px -340px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+.SPELL_CONJURING_FINAL00 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -760px -340px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL01_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL01_offset {
+  background-position: -949px -340px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL01 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -949px -340px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL02_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL02_offset {
+  background-position: -1138px -340px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL02 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1138px -340px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL03_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL03_offset {
+  background-position: -1327px -340px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL03 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1327px -340px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL04_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL04_offset {
+  background-position: -1516px -340px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL04 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1516px -340px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL05_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL05_offset {
+  background-position: -1705px -340px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_CONJURING_FINAL05 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1705px -340px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.MOMO_ENTRANCE00_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE00_offset {
+  background-position: -756px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+.MOMO_ENTRANCE00 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -756px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE01_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE01_offset {
+  background-position: -923px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE01 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -923px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE02_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE02_offset {
+  background-position: -1090px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE02 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1090px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE03_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE03_offset {
+  background-position: -756px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE03 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -756px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE04_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE04_offset {
+  background-position: -923px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE04 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -923px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE05_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE05_offset {
+  background-position: -1090px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE05 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1090px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE06_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE06_offset {
+  background-position: -756px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE06 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -756px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE07_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE07_offset {
+  background-position: -923px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE07 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -923px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE08_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE08_offset {
+  background-position: -1090px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE08 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1090px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE09_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE09_offset {
+  background-position: -1257px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE09 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1257px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE10_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE10_offset {
+  background-position: -1424px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE10 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1424px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE11_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE11_offset {
+  background-position: -1591px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
           .MOMO_ENTRANCE11{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1591px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE12_size{width:164px;height:216px}.MOMO_ENTRANCE12_offset{background-position:-1758px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
           .MOMO_ENTRANCE12{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1758px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE13_size{width:164px;height:216px}.MOMO_ENTRANCE13_offset{background-position:0 -1688px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
           .MOMO_ENTRANCE13{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) 0 -1688px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_EXIT09_size{width:164px;height:216px}.MOMO_EXIT09_offset{background-position:-923px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}

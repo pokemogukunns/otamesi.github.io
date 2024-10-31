@@ -1509,15 +1509,105 @@
   height: 216px;
 }
 
-          .MOMO_ENTRANCE11{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1591px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE12_size{width:164px;height:216px}.MOMO_ENTRANCE12_offset{background-position:-1758px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE12{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1758px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE13_size{width:164px;height:216px}.MOMO_ENTRANCE13_offset{background-position:0 -1688px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_ENTRANCE13{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) 0 -1688px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_EXIT09_size{width:164px;height:216px}.MOMO_EXIT09_offset{background-position:-923px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_EXIT09{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -923px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.MOMO_EXIT10_size{width:164px;height:216px}.MOMO_EXIT10_offset{background-position:-1090px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:164px;height:216px}
-          .MOMO_EXIT10{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1090px -1684px/2040px 2036px no-repeat;width:164px;height:216px}.SPELL_FAILURE_FINAL00_size{width:186px;height:165px}.SPELL_FAILURE_FINAL00_offset{background-position:0 -344px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_FAILURE_FINAL00 {
-    background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) 0 -344px / 2040px 2036px no-repeat;
-    width: 186px;
-    height: 165px;
+.MOMO_ENTRANCE11 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1591px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
 }
+
+.MOMO_ENTRANCE12_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE12_offset {
+  background-position: -1758px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE12 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1758px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE13_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE13_offset {
+  background-position: 0 -1688px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_ENTRANCE13 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) 0 -1688px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_EXIT09_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_EXIT09_offset {
+  background-position: -923px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}.MOMO_EXIT09 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -923px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_EXIT10_size {
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_EXIT10_offset {
+  background-position: -1090px -1684px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 164px;
+  height: 216px;
+}
+
+.MOMO_EXIT10 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -1090px -1684px / 2040px 2036px no-repeat;
+  width: 164px;
+  height: 216px;
+}
+
+.SPELL_FAILURE_FINAL00_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_FAILURE_FINAL00_offset {
+  background-position: 0 -344px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_FAILURE_FINAL00 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) 0 -344px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
 
 .SPELL_FAILURE_FINAL01_size {
     width: 186px;
@@ -3132,7 +3222,119 @@
     width: 186px;
     height: 165px;
 }
-.SPELL_TRIANGLE_FINAL02_size{width:186px;height:165px}.SPELL_TRIANGLE_FINAL02_offset{background-position:-1323px -1348px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_TRIANGLE_FINAL02{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1323px -1348px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_TRIANGLE_FINAL03_size{width:186px;height:165px}.SPELL_TRIANGLE_FINAL03_offset{background-position:-1512px -1348px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_TRIANGLE_FINAL03{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1512px -1348px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_TRIANGLE_FINAL04_size{width:186px;height:165px}.SPELL_TRIANGLE_FINAL04_offset{background-position:-1701px -1348px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_TRIANGLE_FINAL04{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1701px -1348px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_TRIANGLE_FINAL05_size{width:186px;height:165px}.SPELL_TRIANGLE_FINAL05_offset{background-position:0 -1352px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_TRIANGLE_FINAL05{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) 0 -1352px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_TRIANGLE_FINAL06_size{width:186px;height:165px}.SPELL_TRIANGLE_FINAL06_offset{background-position:-189px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_TRIANGLE_FINAL06{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -189px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL00_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL00_offset{background-position:-378px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL00{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -378px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL01_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL01_offset{background-position:-378px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL01{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -378px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL02_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL02_offset{background-position:-567px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL02{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -567px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL03_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL03_offset{background-position:-756px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL03{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -756px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL04_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL04_offset{background-position:-945px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL04{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -945px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL05_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL05_offset{background-position:-1134px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL05{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1134px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL06_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL06_offset{background-position:-1323px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL06{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1323px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL07_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL07_offset{background-position:-1512px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL07{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1512px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.CAT_WIN_FINAL00_size{width:146px;height:184px}.CAT_WIN_FINAL00_offset{background-position:-1894px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL00{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1894px -172px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL01_size{width:146px;height:184px}.CAT_WIN_FINAL01_offset{background-position:-1894px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL01{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1894px -172px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL02_size{width:146px;height:184px}.CAT_WIN_FINAL02_offset{background-position:-1894px -359px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL02{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1894px -359px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL03_size{width:146px;height:184px}.CAT_WIN_FINAL03_offset{background-position:-1890px -546px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL03{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -546px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL04_size{width:146px;height:184px}.CAT_WIN_FINAL04_offset{background-position:-1890px -733px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL04{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -733px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL05_size{width:146px;height:184px}.CAT_WIN_FINAL05_offset{background-position:-1890px -920px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL05{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -920px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL06_size{width:146px;height:184px}.CAT_WIN_FINAL06_offset{background-position:-1890px -1107px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL06{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -1107px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL07_size{width:146px;height:184px}.CAT_WIN_FINAL07_offset{background-position:-1890px -1294px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL07{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -1294px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL08_size{width:146px;height:184px}.CAT_WIN_FINAL08_offset{background-position:-1890px -1481px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL08{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -1481px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL09_size{width:146px;height:184px}.CAT_WIN_FINAL09_offset{background-position:-167px -1852px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL09{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -167px -1852px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL10_size{width:146px;height:184px}.CAT_WIN_FINAL10_offset{background-position:-316px -1852px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}
+.SPELL_TRIANGLE_FINAL02_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL02_offset {
+  background-position: -1323px -1348px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL02 {
+  background: url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1323px -1348px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL03_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL03_offset {
+  background-position: -1512px -1348px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL03 {
+  background: url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1512px -1348px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL04_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL04_offset {
+  background-position: -1701px -1348px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL04 {
+  background: url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1701px -1348px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+.SPELL_TRIANGLE_FINAL05_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL05_offset {
+  background-position: 0 -1352px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL05 {
+  background: url(/logos/2024/halloween24/rc1/momo-sprite-0.png) 0 -1352px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL06_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL06_offset {
+  background-position: -189px -1516px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_TRIANGLE_FINAL06 {
+  background: url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -189px -1516px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_WHIRLPOOL_FINAL00_size {
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_WHIRLPOOL_FINAL00_offset {
+  background-position: -378px -1516px;
+  -webkit-background-size: 2040px 2036px;
+  background-size: 2040px 2036px;
+  width: 186px;
+  height: 165px;
+}
+
+.SPELL_WHIRLPOOL_FINAL00 {
+  background: url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -378px -1516px / 2040px 2036px no-repeat;
+  width: 186px;
+  height: 165px;
+}
+.SPELL_WHIRLPOOL_FINAL01_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL01_offset{background-position:-378px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL01{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -378px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL02_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL02_offset{background-position:-567px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL02{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -567px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL03_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL03_offset{background-position:-756px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL03{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -756px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL04_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL04_offset{background-position:-945px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL04{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -945px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL05_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL05_offset{background-position:-1134px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL05{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1134px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL06_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL06_offset{background-position:-1323px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL06{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1323px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL07_size{width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL07_offset{background-position:-1512px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_WHIRLPOOL_FINAL07{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1512px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.CAT_WIN_FINAL00_size{width:146px;height:184px}.CAT_WIN_FINAL00_offset{background-position:-1894px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL00{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1894px -172px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL01_size{width:146px;height:184px}.CAT_WIN_FINAL01_offset{background-position:-1894px -172px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL01{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1894px -172px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL02_size{width:146px;height:184px}.CAT_WIN_FINAL02_offset{background-position:-1894px -359px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL02{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1894px -359px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL03_size{width:146px;height:184px}.CAT_WIN_FINAL03_offset{background-position:-1890px -546px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL03{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -546px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL04_size{width:146px;height:184px}.CAT_WIN_FINAL04_offset{background-position:-1890px -733px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL04{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -733px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL05_size{width:146px;height:184px}.CAT_WIN_FINAL05_offset{background-position:-1890px -920px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL05{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -920px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL06_size{width:146px;height:184px}.CAT_WIN_FINAL06_offset{background-position:-1890px -1107px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL06{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -1107px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL07_size{width:146px;height:184px}.CAT_WIN_FINAL07_offset{background-position:-1890px -1294px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL07{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -1294px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL08_size{width:146px;height:184px}.CAT_WIN_FINAL08_offset{background-position:-1890px -1481px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL08{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1890px -1481px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL09_size{width:146px;height:184px}.CAT_WIN_FINAL09_offset{background-position:-167px -1852px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL09{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -167px -1852px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL10_size{width:146px;height:184px}.CAT_WIN_FINAL10_offset{background-position:-316px -1852px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}
           .CAT_WIN_FINAL10{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-0.png) -316px -1852px/2040px 2036px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL11_size{width:146px;height:184px}.CAT_WIN_FINAL11_offset{background-position:-465px -1852px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:146px;height:184px}.CAT_WIN_FINAL11{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -465px -1852px/2040px 2036px no-repeat;width:146px;height:184px}.SPELL_YELLOW_FINAL00_size{width:186px;height:165px}.SPELL_YELLOW_FINAL00_offset{background-position:-1701px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_YELLOW_FINAL00{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1701px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_YELLOW_FINAL01_size{width:186px;height:165px}.SPELL_YELLOW_FINAL01_offset{background-position:-1701px -1516px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_YELLOW_FINAL01{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -1701px -1516px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_YELLOW_FINAL02_size{width:186px;height:165px}.SPELL_YELLOW_FINAL02_offset{background-position:0 -1520px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_YELLOW_FINAL02{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) 0 -1520px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_YELLOW_FINAL03_size{width:186px;height:165px}.SPELL_YELLOW_FINAL03_offset{background-position:-189px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_YELLOW_FINAL03{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -189px -1684px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_YELLOW_FINAL04_size{width:186px;height:165px}.SPELL_YELLOW_FINAL04_offset{background-position:-378px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_YELLOW_FINAL04{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -378px -1684px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_YELLOW_FINAL05_size{width:186px;height:165px}.SPELL_YELLOW_FINAL05_offset{background-position:-567px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_YELLOW_FINAL05{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -567px -1684px/2040px 2036px no-repeat;width:186px;height:165px}.SPELL_YELLOW_FINAL06_size{width:186px;height:165px}.SPELL_YELLOW_FINAL06_offset{background-position:-567px -1684px;-webkit-background-size:2040px 2036px;background-size:2040px 2036px;width:186px;height:165px}.SPELL_YELLOW_FINAL06{background:url(/logos/2024/halloween24/rc1/momo-sprite-0.png) -567px -1684px/2040px 2036px no-repeat;width:186px;height:165px}.MOMO_SPRITE_1{background-image:url(/logos/2024/halloween24/rc1/momo-sprite-1.png);background-repeat:no-repeat}.MOMO_ENTRANCE14_size{width:164px;height:216px}.MOMO_ENTRANCE14_offset{background-position:0 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}
           .MOMO_ENTRANCE14{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/momo-sprite-1.png) 0 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE15_size{width:164px;height:216px}.MOMO_ENTRANCE15_offset{background-position:-167px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_ENTRANCE15{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -167px 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_ENTRANCE16_size{width:164px;height:216px}.MOMO_ENTRANCE16_offset{background-position:-334px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_ENTRANCE16{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -334px 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_EXIT01_size{width:164px;height:216px}.MOMO_EXIT01_offset{background-position:-501px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_EXIT01{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -501px 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_EXIT02_size{width:164px;height:216px}.MOMO_EXIT02_offset{background-position:-668px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_EXIT02{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -668px 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_EXIT03_size{width:164px;height:216px}.MOMO_EXIT03_offset{background-position:-835px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_EXIT03{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -835px 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_EXIT04_size{width:164px;height:216px}.MOMO_EXIT04_offset{background-position:-1002px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_EXIT04{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -1002px 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_EXIT05_size{width:164px;height:216px}.MOMO_EXIT05_offset{background-position:-1169px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_EXIT05{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -1169px 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_EXIT06_size{width:164px;height:216px}.MOMO_EXIT06_offset{background-position:-1336px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_EXIT06{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -1336px 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_EXIT07_size{width:164px;height:216px}.MOMO_EXIT07_offset{background-position:-1503px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_EXIT07{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -1503px 0/1983px 403px no-repeat;width:164px;height:216px}.MOMO_EXIT08_size{width:164px;height:216px}.MOMO_EXIT08_offset{background-position:-1670px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:164px;height:216px}.MOMO_EXIT08{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -1670px 0/1983px 403px no-repeat;width:164px;height:216px}.CAT_WIN_FINAL12_size{width:146px;height:184px}.CAT_WIN_FINAL12_offset{background-position:-1837px 0;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:146px;height:184px}.CAT_WIN_FINAL12{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -1837px 0/1983px 403px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL13_size{width:146px;height:184px}.CAT_WIN_FINAL13_offset{background-position:-1837px -187px;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:146px;height:184px}.CAT_WIN_FINAL13{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -1837px -187px/1983px 403px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL14_size{width:146px;height:184px}.CAT_WIN_FINAL14_offset{background-position:0 -219px;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:146px;height:184px}.CAT_WIN_FINAL14{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) 0 -219px/1983px 403px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL15_size{width:146px;height:184px}.CAT_WIN_FINAL15_offset{background-position:-149px -219px;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:146px;height:184px}.CAT_WIN_FINAL15{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -149px -219px/1983px 403px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL16_size{width:146px;height:184px}.CAT_WIN_FINAL16_offset{background-position:-298px -219px;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:146px;height:184px}.CAT_WIN_FINAL16{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -298px -219px/1983px 403px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL17_size{width:146px;height:184px}.CAT_WIN_FINAL17_offset{background-position:-447px -219px;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:146px;height:184px}.CAT_WIN_FINAL17{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -447px -219px/1983px 403px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL18_size{width:146px;height:184px}.CAT_WIN_FINAL18_offset{background-position:-596px -219px;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:146px;height:184px}.CAT_WIN_FINAL18{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -596px -219px/1983px 403px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL19_size{width:146px;height:184px}.CAT_WIN_FINAL19_offset{background-position:-596px -219px;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:146px;height:184px}.CAT_WIN_FINAL19{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -596px -219px/1983px 403px no-repeat;width:146px;height:184px}.CAT_WIN_FINAL20_size{width:146px;height:184px}.CAT_WIN_FINAL20_offset{background-position:-596px -219px;-webkit-background-size:1983px 403px;background-size:1983px 403px;width:146px;height:184px}.CAT_WIN_FINAL20{background:url(/logos/2024/halloween24/rc1/momo-sprite-1.png) -596px -219px/1983px 403px no-repeat;width:146px;height:184px}.UI_SPRITE{background-image:url(/logos/2024/halloween24/rc1/ui-sprite.png);background-repeat:no-repeat}.L4_FIRST_FRAME_size{width:640px;height:360px}.L4_FIRST_FRAME_offset{background-position:0 0;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:640px;height:360px}.L4_FIRST_FRAME{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) 0 0/2047px 1014px no-repeat;width:640px;height:360px}.BANNER_CAT_HEAD_size{width:189px;height:124px}.BANNER_CAT_HEAD_offset{background-position:-1380px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:189px;height:124px}.BANNER_CAT_HEAD{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1380px -727px/2047px 1014px no-repeat;width:189px;height:124px}.BUTTONS_BG_size{width:273px;height:288px}.BUTTONS_BG_offset{background-position:0 -726px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:273px;height:288px}.BUTTONS_BG{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) 0 -726px/2047px 1014px no-repeat;width:273px;height:288px}.GAME_OVER_BG_size{width:640px;height:360px}.GAME_OVER_BG_offset{background-position:-643px 0;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:640px;height:360px}.GAME_OVER_BG{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -643px 0/2047px 1014px no-repeat;width:640px;height:360px}.GAME_WIN_BG_size{width:640px;height:360px}.GAME_WIN_BG_offset{background-position:-1286px 0;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:640px;height:360px}.GAME_WIN_BG{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1286px 0/2047px 1014px no-repeat;width:640px;height:360px}.PLAY_PREV_size{width:74px;height:89px}.PLAY_PREV_offset{background-position:-1929px -83px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:74px;height:89px}.PLAY_PREV{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1929px -83px/2047px 1014px no-repeat;width:74px;height:89px}.PLAY_PREV_HOVER_size{width:74px;height:89px}.PLAY_PREV_HOVER_offset{background-position:-1929px -175px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:74px;height:89px}.PLAY_PREV_HOVER{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1929px -175px/2047px 1014px no-repeat;width:74px;height:89px}.GHOSTBANNER1_size{width:320px;height:46px}.GHOSTBANNER1_offset{background-position:-1286px -678px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:320px;height:46px}.GHOSTBANNER1{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1286px -678px/2047px 1014px no-repeat;width:320px;height:46px}.GHOSTBANNER2_size{width:320px;height:46px}.GHOSTBANNER2_offset{background-position:-1609px -678px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:320px;height:46px}.GHOSTBANNER2{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1609px -678px/2047px 1014px no-repeat;width:320px;height:46px}.HEART_LOSS0000_size{width:41px;height:38px}.HEART_LOSS0000_offset{background-position:-2006px -83px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0000{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2006px -83px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_LOSS0001_size{width:41px;height:38px}.HEART_LOSS0001_offset{background-position:-2006px -124px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0001{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2006px -124px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_LOSS0002_size{width:41px;height:38px}.HEART_LOSS0002_offset{background-position:-2006px -165px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0002{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2006px -165px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_LOSS0003_size{width:41px;height:38px}.HEART_LOSS0003_offset{background-position:-2006px -206px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0003{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2006px -206px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_LOSS0004_size{width:41px;height:38px}.HEART_LOSS0004_offset{background-position:-2006px -247px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0004{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2006px -247px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_LOSS0005_size{width:41px;height:38px}.HEART_LOSS0005_offset{background-position:-2003px -288px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0005{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2003px -288px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_LOSS0006_size{width:41px;height:38px}.HEART_LOSS0006_offset{background-position:-2006px -629px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0006{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2006px -629px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_LOSS0007_size{width:41px;height:38px}.HEART_LOSS0007_offset{background-position:-2006px -670px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0007{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2006px -670px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_LOSS0008_size{width:41px;height:38px}.HEART_LOSS0008_offset{background-position:-2006px -711px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0008{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2006px -711px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_LOSS0009_size{width:41px;height:38px}.HEART_LOSS0009_offset{background-position:-1617px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_LOSS0009{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1617px -727px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0001_size{width:41px;height:38px}.HEART_REFILL0001_offset{background-position:-1661px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0001{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1661px -727px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0002_size{width:41px;height:38px}.HEART_REFILL0002_offset{background-position:-1705px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0002{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1705px -727px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0003_size{width:41px;height:38px}.HEART_REFILL0003_offset{background-position:-1749px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0003{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1749px -727px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0004_size{width:41px;height:38px}.HEART_REFILL0004_offset{background-position:-1793px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0004{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1793px -727px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0005_size{width:41px;height:38px}.HEART_REFILL0005_offset{background-position:-1837px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0005{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1837px -727px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0006_size{width:41px;height:38px}.HEART_REFILL0006_offset{background-position:-1881px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0006{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1881px -727px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0007_size{width:41px;height:38px}.HEART_REFILL0007_offset{background-position:-2006px -752px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0007{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2006px -752px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0008_size{width:41px;height:38px}.HEART_REFILL0008_offset{background-position:-1617px -768px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0008{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1617px -768px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0009_size{width:41px;height:38px}.HEART_REFILL0009_offset{background-position:-1661px -768px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0009{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1661px -768px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0010_size{width:41px;height:38px}.HEART_REFILL0010_offset{background-position:-1705px -768px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0010{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1705px -768px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0011_size{width:41px;height:38px}.HEART_REFILL0011_offset{background-position:-1749px -768px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0011{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1749px -768px/2047px 1014px no-repeat;width:41px;height:38px}.HEART_REFILL0012_size{width:41px;height:38px}.HEART_REFILL0012_offset{background-position:-1793px -768px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:41px;height:38px}.HEART_REFILL0012{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1793px -768px/2047px 1014px no-repeat;width:41px;height:38px}.MUTE_size{width:30px;height:30px}.MUTE_offset{background-position:-2012px 0;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:30px;height:30px}.MUTE{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2012px 0/2047px 1014px no-repeat;width:30px;height:30px}.PAUSE_size{width:30px;height:30px}.PAUSE_offset{background-position:-2012px -33px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:30px;height:30px}.PAUSE{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2012px -33px/2047px 1014px no-repeat;width:30px;height:30px}.RESUME_size{width:30px;height:30px}.RESUME_offset{background-position:-2003px -329px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:30px;height:30px}.RESUME{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -2003px -329px/2047px 1014px no-repeat;width:30px;height:30px}.SKIP_size{width:30px;height:30px}.SKIP_offset{background-position:-1837px -768px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:30px;height:30px}.SKIP{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1837px -768px/2047px 1014px no-repeat;width:30px;height:30px}.UNMUTE_size{width:30px;height:30px}.UNMUTE_offset{background-position:-1870px -768px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:30px;height:30px}.UNMUTE{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1870px -768px/2047px 1014px no-repeat;width:30px;height:30px}.CHECK_size{width:45px;height:38px}.CHECK_offset{background-position:-1826px -629px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:45px;height:38px}.CHECK{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1826px -629px/2047px 1014px no-repeat;width:45px;height:38px}.CHECK_RED_size{width:45px;height:38px}.CHECK_RED_offset{background-position:-1874px -629px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:45px;height:38px}.CHECK_RED{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1874px -629px/2047px 1014px no-repeat;width:45px;height:38px}.CHECKMARKS_size{width:42px;height:279px}.CHECKMARKS_offset{background-position:-1572px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:42px;height:279px}.CHECKMARKS{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1572px -727px/2047px 1014px no-repeat;width:42px;height:279px}.MAP_size{width:537px;height:312px}.MAP_offset{background-position:-1286px -363px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:537px;height:312px}.MAP{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1286px -363px/2047px 1014px no-repeat;width:537px;height:312px}.PROGRESS_L1_size{width:273px;height:271px}.PROGRESS_L1_offset{background-position:-276px -726px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:273px;height:271px}.PROGRESS_L1{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -276px -726px/2047px 1014px no-repeat;width:273px;height:271px}.PROGRESS_L2_size{width:273px;height:271px}.PROGRESS_L2_offset{background-position:-552px -726px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:273px;height:271px}.PROGRESS_L2{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -552px -726px/2047px 1014px no-repeat;width:273px;height:271px}.PROGRESS_L3_size{width:273px;height:271px}.PROGRESS_L3_offset{background-position:-828px -726px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:273px;height:271px}.PROGRESS_L3{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -828px -726px/2047px 1014px no-repeat;width:273px;height:271px}.PROGRESS_L4_size{width:273px;height:271px}.PROGRESS_L4_offset{background-position:-1104px -727px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:273px;height:271px}.PROGRESS_L4{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1104px -727px/2047px 1014px no-repeat;width:273px;height:271px}.INTRO_FIRST_FRAME_size{width:640px;height:360px}.INTRO_FIRST_FRAME_offset{background-position:0 -363px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:640px;height:360px}.INTRO_FIRST_FRAME{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) 0 -363px/2047px 1014px no-repeat;width:640px;height:360px}.MEOWLOAD_size{width:80px;height:80px}.MEOWLOAD_offset{background-position:-1929px 0;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:80px;height:80px}.MEOWLOAD{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1929px 0/2047px 1014px no-repeat;width:80px;height:80px}.OUTRO_FIRST_FRAME_size{width:640px;height:360px}.OUTRO_FIRST_FRAME_offset{background-position:-643px -363px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:640px;height:360px}.OUTRO_FIRST_FRAME{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -643px -363px/2047px 1014px no-repeat;width:640px;height:360px}.HOME_size{width:71px;height:71px}.HOME_offset{background-position:-1929px -267px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:71px;height:71px}.HOME{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1929px -267px/2047px 1014px no-repeat;width:71px;height:71px}.HOME_HOVER_size{width:71px;height:71px}.HOME_HOVER_offset{background-position:-1826px -555px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:71px;height:71px}.HOME_HOVER{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1826px -555px/2047px 1014px no-repeat;width:71px;height:71px}.REPLAY_size{width:71px;height:71px}.REPLAY_offset{background-position:-1900px -555px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:71px;height:71px}.REPLAY{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1900px -555px/2047px 1014px no-repeat;width:71px;height:71px}.REPLAY_HOVER_size{width:71px;height:71px}.REPLAY_HOVER_offset{background-position:-1974px -555px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:71px;height:71px}.REPLAY_HOVER{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1974px -555px/2047px 1014px no-repeat;width:71px;height:71px}.SEARCH_size{width:71px;height:71px}.SEARCH_offset{background-position:-1932px -629px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:71px;height:71px}.SEARCH{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1932px -629px/2047px 1014px no-repeat;width:71px;height:71px}.SEARCH_HOVER_size{width:71px;height:71px}.SEARCH_HOVER_offset{background-position:-1932px -703px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:71px;height:71px}.SEARCH_HOVER{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1932px -703px/2047px 1014px no-repeat;width:71px;height:71px}.SHARE_size{width:207px;height:45px}.SHARE_offset{background-position:-1826px -363px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:207px;height:45px}.SHARE{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1826px -363px/2047px 1014px no-repeat;width:207px;height:45px}.SHARE_HOVER_size{width:207px;height:45px}.SHARE_HOVER_offset{background-position:-1826px -411px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:207px;height:45px}
           .SHARE_HOVER{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ui-sprite.png) -1826px -411px/2047px 1014px no-repeat;width:207px;height:45px}.SHARE_IOS_size{width:207px;height:45px}.SHARE_IOS_offset{background-position:-1826px -459px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:207px;height:45px}.SHARE_IOS{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1826px -459px/2047px 1014px no-repeat;width:207px;height:45px}.SHARE_IOS_HOVER_size{width:207px;height:45px}.SHARE_IOS_HOVER_offset{background-position:-1826px -507px;-webkit-background-size:2047px 1014px;background-size:2047px 1014px;width:207px;height:45px}.SHARE_IOS_HOVER{background:url(/logos/2024/halloween24/rc1/ui-sprite.png) -1826px -507px/2047px 1014px no-repeat;width:207px;height:45px}.LEVEL1_SPRITE{background-image:url(/logos/2024/halloween24/rc1/level1-sprite.png);background-repeat:no-repeat}.BAT_ATTACK00_size{width:256px;height:184px}.BAT_ATTACK00_offset{background-position:-1506px 0;-webkit-background-size:2021px 1916px;background-size:2021px 1916px;width:256px;height:184px}.BAT_ATTACK00{background:url(/logos/2024/halloween24/rc1/level1-sprite.png) -1506px 0/2021px 1916px no-repeat;width:256px;height:184px}.BAT_ATTACK01_size{width:256px;height:184px}.BAT_ATTACK01_offset{background-position:-1765px 0;-webkit-background-size:2021px 1916px;background-size:2021px 1916px;width:256px;height:184px}.BAT_ATTACK01{background:url(/logos/2024/halloween24/rc1/level1-sprite.png) -1765px 0/2021px 1916px no-repeat;width:256px;height:184px}.BAT_ATTACK02_size{width:256px;height:184px}.BAT_ATTACK02_offset{background-position:-1506px -187px;-webkit-background-size:2021px 1916px;background-size:2021px 1916px;width:256px;height:184px}.BAT_ATTACK02{background:url(/logos/2024/halloween24/rc1/level1-sprite.png) -1506px -187px/2021px 1916px no-repeat;width:256px;height:184px}.BAT_ATTACK03_size{width:256px;height:184px}.BAT_ATTACK03_offset{background-position:-1506px -187px;-webkit-background-size:2021px 1916px;background-size:2021px 1916px;width:256px;height:184px}.BAT_ATTACK03{background:url(/logos/2024/halloween24/rc1/level1-sprite.png) -1506px -187px/2021px 1916px no-repeat;width:256px;height:184px}.BAT_ATTACK04_size{width:256px;height:184px}.BAT_ATTACK04_offset{background-position:-1765px -187px;-webkit-background-size:2021px 1916px;background-size:2021px 1916px;width:256px;height:184px}.BAT_ATTACK04{background:url(/logos/2024/halloween24/rc1/level1-sprite.png) -1765px -187px/2021px 1916px no-repeat;width:256px;height:184px}.BAT_DEFEATED00_size{width:256px;height:184px}.BAT_DEFEATED00_offset{background-position:-1506px -374px;-webkit-background-size:2021px 1916px;background-size:2021px 1916px;width:256px;height:184px}.BAT_DEFEATED00{background:url(/logos/2024/halloween24/rc1/level1-sprite.png) -1506px -374px/2021px 1916px no-repeat;width:256px;height:184px}.BAT_DEFEATED01_size{width:256px;height:184px}.BAT_DEFEATED01_offset{background-position:-1765px -374px;-webkit-background-size:2021px 1916px;background-size:2021px 1916px;width:256px;height:184px}.BAT_DEFEATED01{background:url(/logos/2024/halloween24/rc1/level1-sprite.png) -1765px -374px/2021px 1916px no-repeat;width:256px;height:184px}.BAT_DEFEATED02_size{width:256px;height:184px}.BAT_DEFEATED02_offset{background-position:-1506px -561px;-webkit-background-size:2021px 1916px;background-size:2021px 1916px;width:256px;height:184px}.BAT_DEFEATED02{background:url(/logos/2024/halloween24/rc1/level1-sprite.png) -1506px -561px/2021px 1916px no-repeat;width:256px;height:184px}.BAT_DEFEATED03_size{width:256px;height:184px}.BAT_DEFEATED03_offset{background-position:-1765px -561px;-webkit-background-size:2021px 1916px;background-size:2021px 1916px;width:256px;height:184px}
@@ -3173,18 +3375,354 @@
           .GHOST_DEFEATED_FINAL00{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -920px -1420px/2042px 1676px no-repeat;width:97px;height:112px}.GHOST_DEFEATED_FINAL01_size{width:97px;height:112px}.GHOST_DEFEATED_FINAL01_offset{background-position:-1020px -1467px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:97px;height:112px}.GHOST_DEFEATED_FINAL01{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1020px -1467px/2042px 1676px no-repeat;width:97px;height:112px}.GHOST_DEFEATED_FINAL02_size{width:97px;height:112px}.GHOST_DEFEATED_FINAL02_offset{background-position:-1120px -1467px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:97px;height:112px}.GHOST_DEFEATED_FINAL02{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1120px -1467px/2042px 1676px no-repeat;width:97px;height:112px}.GHOST_DEFEATED_FINAL03_size{width:97px;height:112px}.GHOST_DEFEATED_FINAL03_offset{background-position:-1220px -1467px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:97px;height:112px}.GHOST_DEFEATED_FINAL03{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1220px -1467px/2042px 1676px no-repeat;width:97px;height:112px}.GHOST_DEFEATED_FINAL04_size{width:97px;height:112px}.GHOST_DEFEATED_FINAL04_offset{background-position:-1320px -1467px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:97px;height:112px}.GHOST_DEFEATED_FINAL04{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1320px -1467px/2042px 1676px no-repeat;width:97px;height:112px}.GHOST_DEFEATED_FINAL05_size{width:97px;height:112px}.GHOST_DEFEATED_FINAL05_offset{background-position:-1420px -1467px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:97px;height:112px}.GHOST_DEFEATED_FINAL05{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1420px -1467px/2042px 1676px no-repeat;width:97px;height:112px}.GHOST_DEFEATED_FINAL06_size{width:97px;height:112px}.GHOST_DEFEATED_FINAL06_offset{background-position:-146px -1505px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:97px;height:112px}.GHOST_DEFEATED_FINAL06{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -146px -1505px/2042px 1676px no-repeat;width:97px;height:112px}.GHOST_DEFEATED_FINAL07_size{width:97px;height:112px}.GHOST_DEFEATED_FINAL07_offset{background-position:-246px -1505px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:97px;height:112px}.GHOST_DEFEATED_FINAL07{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -246px -1505px/2042px 1676px no-repeat;width:97px;height:112px}.GHOST_HEART_DEFEAT00_size{width:78px;height:63px}.GHOST_HEART_DEFEAT00_offset{background-position:-1906px -1298px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT00{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1906px -1298px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT01_size{width:78px;height:63px}.GHOST_HEART_DEFEAT01_offset{background-position:-1692px -1521px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT01{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1692px -1521px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT02_size{width:78px;height:63px}.GHOST_HEART_DEFEAT02_offset{background-position:-1773px -1521px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT02{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1773px -1521px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT03_size{width:78px;height:63px}.GHOST_HEART_DEFEAT03_offset{background-position:-1854px -1521px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT03{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1854px -1521px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT04_size{width:78px;height:63px}.GHOST_HEART_DEFEAT04_offset{background-position:-1935px -1521px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT04{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1935px -1521px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT05_size{width:78px;height:63px}.GHOST_HEART_DEFEAT05_offset{background-position:0 -1534px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT05{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -1534px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT06_size{width:78px;height:63px}.GHOST_HEART_DEFEAT06_offset{background-position:-862px -1535px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT06{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -862px -1535px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT07_size{width:78px;height:63px}.GHOST_HEART_DEFEAT07_offset{background-position:-1520px -1575px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT07{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1520px -1575px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT08_size{width:78px;height:63px}.GHOST_HEART_DEFEAT08_offset{background-position:-943px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT08{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -943px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT09_size{width:78px;height:63px}.GHOST_HEART_DEFEAT09_offset{background-position:-943px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT09{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -943px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT10_size{width:78px;height:63px}.GHOST_HEART_DEFEAT10_offset{background-position:-943px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT10{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -943px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_DEFEAT11_size{width:78px;height:63px}.GHOST_HEART_DEFEAT11_offset{background-position:-943px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_DEFEAT11{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -943px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE00_size{width:78px;height:63px}.GHOST_HEART_IDLE00_offset{background-position:-1024px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE00{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1024px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE01_size{width:78px;height:63px}.GHOST_HEART_IDLE01_offset{background-position:-1105px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE01{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1105px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE02_size{width:78px;height:63px}.GHOST_HEART_IDLE02_offset{background-position:-1186px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE02{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1186px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE03_size{width:78px;height:63px}.GHOST_HEART_IDLE03_offset{background-position:-1267px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE03{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1267px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE04_size{width:78px;height:63px}.GHOST_HEART_IDLE04_offset{background-position:-1348px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}
           .GHOST_HEART_IDLE04{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1348px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE05_size{width:78px;height:63px}.GHOST_HEART_IDLE05_offset{background-position:-1429px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE05{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1429px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE06_size{width:78px;height:63px}.GHOST_HEART_IDLE06_offset{background-position:-1692px -1587px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE06{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1692px -1587px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE07_size{width:78px;height:63px}.GHOST_HEART_IDLE07_offset{background-position:-1773px -1587px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE07{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1773px -1587px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE08_size{width:78px;height:63px}.GHOST_HEART_IDLE08_offset{background-position:-1348px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE08{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1348px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE09_size{width:78px;height:63px}.GHOST_HEART_IDLE09_offset{background-position:-1854px -1587px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE09{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1854px -1587px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE10_size{width:78px;height:63px}.GHOST_HEART_IDLE10_offset{background-position:-1186px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE10{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1186px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE11_size{width:78px;height:63px}.GHOST_HEART_IDLE11_offset{background-position:-1935px -1587px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE11{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1935px -1587px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE12_size{width:78px;height:63px}.GHOST_HEART_IDLE12_offset{background-position:-1024px -1582px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE12{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1024px -1582px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE13_size{width:78px;height:63px}.GHOST_HEART_IDLE13_offset{background-position:0 -1600px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE13{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -1600px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE14_size{width:78px;height:63px}.GHOST_HEART_IDLE14_offset{background-position:-862px -1601px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE14{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -862px -1601px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HEART_IDLE15_size{width:78px;height:63px}.GHOST_HEART_IDLE15_offset{background-position:-346px -1613px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:78px;height:63px}.GHOST_HEART_IDLE15{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -346px -1613px/2042px 1676px no-repeat;width:78px;height:63px}.GHOST_HIT_FINAL00_size{width:109px;height:91px}.GHOST_HIT_FINAL00_offset{background-position:-1906px -1110px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:109px;height:91px}.GHOST_HIT_FINAL00{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1906px -1110px/2042px 1676px no-repeat;width:109px;height:91px}.GHOST_HIT_FINAL01_size{width:109px;height:91px}.GHOST_HIT_FINAL01_offset{background-position:-1906px -1204px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:109px;height:91px}.GHOST_HIT_FINAL01{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1906px -1204px/2042px 1676px no-repeat;width:109px;height:91px}.GHOST_HIT_FINAL02_size{width:109px;height:91px}.GHOST_HIT_FINAL02_offset{background-position:-584px -1420px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:109px;height:91px}.GHOST_HIT_FINAL02{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -584px -1420px/2042px 1676px no-repeat;width:109px;height:91px}.GHOST_HIT_FINAL03_size{width:109px;height:91px}.GHOST_HIT_FINAL03_offset{background-position:-696px -1420px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:109px;height:91px}.GHOST_HIT_FINAL03{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -696px -1420px/2042px 1676px no-repeat;width:109px;height:91px}.GHOST_HIT_FINAL04_size{width:109px;height:91px}.GHOST_HIT_FINAL04_offset{background-position:-808px -1420px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:109px;height:91px}.GHOST_HIT_FINAL04{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -808px -1420px/2042px 1676px no-repeat;width:109px;height:91px}.GHOST_HIT_FINAL05_size{width:109px;height:91px}.GHOST_HIT_FINAL05_offset{background-position:-808px -1420px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:109px;height:91px}.GHOST_HIT_FINAL05{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -808px -1420px/2042px 1676px no-repeat;width:109px;height:91px}.GHOST_HIT_FINAL06_size{width:109px;height:91px}.GHOST_HIT_FINAL06_offset{background-position:-808px -1420px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:109px;height:91px}.GHOST_HIT_FINAL06{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -808px -1420px/2042px 1676px no-repeat;width:109px;height:91px}.GHOST_HIT_FINAL07_size{width:109px;height:91px}.GHOST_HIT_FINAL07_offset{background-position:-808px -1420px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:109px;height:91px}.GHOST_HIT_FINAL07{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -808px -1420px/2042px 1676px no-repeat;width:109px;height:91px}.MARSHMALLOW_ENTRANCE00_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE00_offset{background-position:0 0;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE00{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 0/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE01_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE01_offset{background-position:-271px 0;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE01{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -271px 0/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE02_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE02_offset{background-position:-542px 0;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE02{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -542px 0/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE03_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE03_offset{background-position:-813px 0;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}
           .MARSHMALLOW_ENTRANCE03{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -813px 0/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE04_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE04_offset{background-position:-1084px 0;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE04{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1084px 0/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE05_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE05_offset{background-position:-1355px 0;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE05{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1355px 0/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE06_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE06_offset{background-position:-1626px 0;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE06{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1626px 0/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE07_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE07_offset{background-position:0 -242px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE07{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -242px/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE08_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE08_offset{background-position:-271px -242px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE08{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -271px -242px/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE09_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE09_offset{background-position:-542px -242px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE09{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -542px -242px/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE10_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE10_offset{background-position:-813px -242px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE10{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -813px -242px/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE11_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE11_offset{background-position:-1084px -242px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE11{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1084px -242px/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE12_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE12_offset{background-position:-1355px -242px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE12{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1355px -242px/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE13_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE13_offset{background-position:-1626px -242px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE13{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1626px -242px/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_ENTRANCE14_size{width:268px;height:239px}.MARSHMALLOW_ENTRANCE14_offset{background-position:0 -484px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:268px;height:239px}.MARSHMALLOW_ENTRANCE14{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -484px/2042px 1676px no-repeat;width:268px;height:239px}.MARSHMALLOW_GAMEOVER00_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER00_offset{background-position:-1897px 0;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER00{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1897px 0/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER01_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER01_offset{background-position:-1897px -222px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER01{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1897px -222px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER02_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER02_offset{background-position:-1897px -444px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER02{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1897px -444px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER03_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER03_offset{background-position:-1897px -444px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER03{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1897px -444px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER04_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER04_offset{background-position:-1897px -444px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER04{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1897px -444px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER05_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER05_offset{background-position:-1897px -444px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER05{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1897px -444px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER06_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER06_offset{background-position:-1897px -444px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER06{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1897px -444px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER07_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER07_offset{background-position:-1897px -444px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER07{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1897px -444px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER08_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER08_offset{background-position:-1897px -444px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER08{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1897px -444px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER09_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER09_offset{background-position:-1874px -666px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER09{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1874px -666px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER10_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER10_offset{background-position:-1874px -666px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER10{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1874px -666px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER11_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER11_offset{background-position:-1145px -834px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER11{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1145px -834px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER12_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER12_offset{background-position:-1293px -834px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER12{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1293px -834px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER13_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER13_offset{background-position:-1441px -834px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER13{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1441px -834px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER14_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER14_offset{background-position:-1589px -834px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER14{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1589px -834px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER15_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER15_offset{background-position:-1737px -888px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER15{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1737px -888px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER16_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER16_offset{background-position:-1885px -888px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER16{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1885px -888px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER17_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER17_offset{background-position:0 -901px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER17{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -901px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER18_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER18_offset{background-position:-148px -1009px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER18{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -148px -1009px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER19_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER19_offset{background-position:-296px -1009px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER19{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -296px -1009px/2042px 1676px no-repeat;width:145px;height:219px}.MARSHMALLOW_GAMEOVER20_size{width:145px;height:219px}.MARSHMALLOW_GAMEOVER20_offset{background-position:-444px -1009px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:145px;height:219px}.MARSHMALLOW_GAMEOVER20{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -444px -1009px/2042px 1676px no-repeat;width:145px;height:219px}.MOMOMARSH_HOURGLASS00_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS00_offset{background-position:-271px -484px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS00{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -271px -484px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS01_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS01_offset{background-position:-500px -484px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS01{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -500px -484px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS02_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS02_offset{background-position:-729px -484px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS02{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -729px -484px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS03_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS03_offset{background-position:-958px -484px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS03{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -958px -484px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS04_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS04_offset{background-position:-1187px -484px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS04{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1187px -484px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS05_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS05_offset{background-position:-1416px -484px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS05{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1416px -484px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS06_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS06_offset{background-position:-1645px -484px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS06{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1645px -484px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS07_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS07_offset{background-position:-271px -659px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS07{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -271px -659px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS08_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS08_offset{background-position:-500px -659px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS08{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -500px -659px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS09_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS09_offset{background-position:-729px -659px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS09{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -729px -659px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS10_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS10_offset{background-position:-958px -659px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS10{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -958px -659px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS11_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS11_offset{background-position:-1187px -659px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS11{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1187px -659px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS12_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS12_offset{background-position:-1416px -659px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS12{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1416px -659px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS13_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS13_offset{background-position:-1645px -659px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS13{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1645px -659px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS14_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS14_offset{background-position:0 -726px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS14{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -726px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS15_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS15_offset{background-position:-229px -834px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS15{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -229px -834px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS16_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS16_offset{background-position:-458px -834px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS16{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -458px -834px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS17_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS17_offset{background-position:-687px -834px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS17{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -687px -834px/2042px 1676px no-repeat;width:226px;height:172px}.MOMOMARSH_HOURGLASS18_size{width:226px;height:172px}.MOMOMARSH_HOURGLASS18_offset{background-position:-916px -834px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:226px;height:172px}.MOMOMARSH_HOURGLASS18{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -916px -834px/2042px 1676px no-repeat;width:226px;height:172px}.MARSHMALLOW_HIT00_size{width:143px;height:134px}.MARSHMALLOW_HIT00_offset{background-position:-592px -1009px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_HIT00{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -592px -1009px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_HIT01_size{width:143px;height:134px}.MARSHMALLOW_HIT01_offset{background-position:-738px -1009px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_HIT01{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -738px -1009px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_HIT02_size{width:143px;height:134px}.MARSHMALLOW_HIT02_offset{background-position:-884px -1009px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_HIT02{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -884px -1009px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_HIT03_size{width:143px;height:134px}.MARSHMALLOW_HIT03_offset{background-position:-1030px -1056px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_HIT03{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1030px -1056px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_HIT04_size{width:143px;height:134px}.MARSHMALLOW_HIT04_offset{background-position:-1176px -1056px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_HIT04{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1176px -1056px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE00_size{width:143px;height:134px}.MARSHMALLOW_IDLE00_offset{background-position:-1322px -1056px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE00{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1322px -1056px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE01_size{width:143px;height:134px}.MARSHMALLOW_IDLE01_offset{background-position:-1468px -1056px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE01{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1468px -1056px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE02_size{width:143px;height:134px}.MARSHMALLOW_IDLE02_offset{background-position:-1614px -1110px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE02{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1614px -1110px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE03_size{width:143px;height:134px}.MARSHMALLOW_IDLE03_offset{background-position:-1760px -1110px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE03{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1760px -1110px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE04_size{width:143px;height:134px}.MARSHMALLOW_IDLE04_offset{background-position:0 -1123px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE04{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -1123px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE05_size{width:143px;height:134px}.MARSHMALLOW_IDLE05_offset{background-position:0 -1123px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE05{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -1123px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE06_size{width:143px;height:134px}.MARSHMALLOW_IDLE06_offset{background-position:0 -1123px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE06{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -1123px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE07_size{width:143px;height:134px}.MARSHMALLOW_IDLE07_offset{background-position:-592px -1146px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE07{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -592px -1146px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE08_size{width:143px;height:134px}.MARSHMALLOW_IDLE08_offset{background-position:-1468px -1056px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE08{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1468px -1056px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE09_size{width:143px;height:134px}.MARSHMALLOW_IDLE09_offset{background-position:-738px -1146px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE09{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -738px -1146px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE10_size{width:143px;height:134px}.MARSHMALLOW_IDLE10_offset{background-position:-884px -1146px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_IDLE10{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -884px -1146px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE11_size{width:143px;height:134px}.MARSHMALLOW_IDLE11_offset{background-position:-884px -1146px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE11{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -884px -1146px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE12_size{width:143px;height:134px}.MARSHMALLOW_IDLE12_offset{background-position:-884px -1146px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE12{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -884px -1146px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE13_size{width:143px;height:134px}.MARSHMALLOW_IDLE13_offset{background-position:-738px -1146px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE13{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -738px -1146px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE14_size{width:143px;height:134px}.MARSHMALLOW_IDLE14_offset{background-position:-1468px -1056px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE14{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1468px -1056px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE15_size{width:143px;height:134px}.MARSHMALLOW_IDLE15_offset{background-position:-1030px -1193px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE15{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1030px -1193px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE16_size{width:143px;height:134px}.MARSHMALLOW_IDLE16_offset{background-position:-1176px -1193px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE16{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1176px -1193px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE17_size{width:143px;height:134px}.MARSHMALLOW_IDLE17_offset{background-position:-1322px -1193px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE17{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1322px -1193px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE18_size{width:143px;height:134px}.MARSHMALLOW_IDLE18_offset{background-position:-1322px -1193px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE18{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1322px -1193px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE19_size{width:143px;height:134px}.MARSHMALLOW_IDLE19_offset{background-position:-1322px -1193px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE19{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1322px -1193px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE20_size{width:143px;height:134px}.MARSHMALLOW_IDLE20_offset{background-position:-1322px -1193px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_IDLE20{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1322px -1193px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE21_size{width:143px;height:134px}.MARSHMALLOW_IDLE21_offset{background-position:-1176px -1193px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_IDLE21{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1176px -1193px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE22_size{width:143px;height:134px}.MARSHMALLOW_IDLE22_offset{background-position:-1468px -1193px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_IDLE22{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1468px -1193px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE23_size{width:143px;height:134px}.MARSHMALLOW_IDLE23_offset{background-position:-146px -1231px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_IDLE23{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -146px -1231px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE24_size{width:143px;height:134px}.MARSHMALLOW_IDLE24_offset{background-position:-292px -1231px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_IDLE24{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -292px -1231px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE25_size{width:143px;height:134px}.MARSHMALLOW_IDLE25_offset{background-position:-438px -1231px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_IDLE25{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -438px -1231px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE26_size{width:143px;height:134px}.MARSHMALLOW_IDLE26_offset{background-position:-1614px -1247px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_IDLE26{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1614px -1247px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE27_size{width:143px;height:134px}.MARSHMALLOW_IDLE27_offset{background-position:-1614px -1247px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_IDLE27{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1614px -1247px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_IDLE28_size{width:143px;height:134px}.MARSHMALLOW_IDLE28_offset{background-position:-1614px -1247px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_IDLE28{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1614px -1247px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN00_size{width:143px;height:134px}.MARSHMALLOW_WIN00_offset{background-position:-1760px -1247px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_WIN00{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1760px -1247px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN01_size{width:143px;height:134px}.MARSHMALLOW_WIN01_offset{background-position:0 -1260px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_WIN01{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -1260px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN02_size{width:143px;height:134px}.MARSHMALLOW_WIN02_offset{background-position:-584px -1283px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
-          .MARSHMALLOW_WIN02{background:url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -584px -1283px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN03_size{width:143px;height:134px}.MARSHMALLOW_WIN03_offset{background-position:-730px -1283px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}
+.MARSHMALLOW_IDLE10 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -884px -1146px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE11_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE11_offset {
+  background-position: -884px -1146px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE11 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -884px -1146px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE12_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE12_offset {
+  background-position: -884px -1146px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE12 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -884px -1146px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE13_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE13_offset {
+  background-position: -738px -1146px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE13 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -738px -1146px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE14_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE14_offset {
+  background-position: -1468px -1056px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE14 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1468px -1056px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE15_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE15_offset {
+  background-position: -1030px -1193px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE15 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1030px -1193px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE16_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE16_offset {
+  background-position: -1176px -1193px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE16 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1176px -1193px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE17_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE17_offset {
+  background-position: -1322px -1193px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE17 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1322px -1193px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE18_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE18_offset {
+  background-position: -1322px -1193px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE18 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1322px -1193px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE19_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE19_offset {
+  background-position: -1322px -1193px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE19 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1322px -1193px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE20_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE20_offset {
+  background-position: -1322px -1193px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE20 {
+  background: url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1322px -1193px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE21_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE21_offset {
+  background-position: -1176px -1193px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE21 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1176px -1193px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE22_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE22_offset {
+  background-position: -1468px -1193px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE22 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1468px -1193px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE23_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE23_offset {
+  background-position: -146px -1231px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE23 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -146px -1231px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE27 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1614px -1247px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE28_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE28_offset {
+  background-position: -1614px -1247px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_IDLE28 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1614px -1247px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN00_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN00_offset {
+  background-position: -1760px -1247px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN00 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -1760px -1247px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN01_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN01_offset {
+  background-position: 0 -1260px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN01 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) 0 -1260px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN02_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN02_offset {
+  background-position: -584px -1283px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN02 {
+  background: url(https://www.google.co.jp/logos/2024/halloween24/rc1/ghosts-sprite.png) -584px -1283px / 2042px 1676px no-repeat;
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN03_size {
+  width: 143px;
+  height: 134px;
+}
+
+.MARSHMALLOW_WIN03_offset {
+  background-position: -730px -1283px;
+  -webkit-background-size: 2042px 1676px;
+  background-size: 2042px 1676px;
+  width: 143px;
+  height: 134px;
+}
+
           .MARSHMALLOW_WIN03{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -730px -1283px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN04_size{width:143px;height:134px}.MARSHMALLOW_WIN04_offset{background-position:-876px -1283px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN04{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -876px -1283px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN05_size{width:143px;height:134px}.MARSHMALLOW_WIN05_offset{background-position:-1022px -1330px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN05{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1022px -1330px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN06_size{width:143px;height:134px}.MARSHMALLOW_WIN06_offset{background-position:-1168px -1330px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN06{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1168px -1330px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN07_size{width:143px;height:134px}.MARSHMALLOW_WIN07_offset{background-position:-1314px -1330px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN07{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1314px -1330px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN08_size{width:143px;height:134px}.MARSHMALLOW_WIN08_offset{background-position:-1460px -1330px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN08{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1460px -1330px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN09_size{width:143px;height:134px}.MARSHMALLOW_WIN09_offset{background-position:-146px -1368px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN09{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -146px -1368px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN10_size{width:143px;height:134px}.MARSHMALLOW_WIN10_offset{background-position:-292px -1368px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN10{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -292px -1368px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN11_size{width:143px;height:134px}.MARSHMALLOW_WIN11_offset{background-position:-438px -1368px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN11{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -438px -1368px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN12_size{width:143px;height:134px}.MARSHMALLOW_WIN12_offset{background-position:-1606px -1384px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN12{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1606px -1384px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN13_size{width:143px;height:134px}.MARSHMALLOW_WIN13_offset{background-position:-1752px -1384px;-webkit-background-size:2042px 1676px;background-size:2042px 1676px;width:143px;height:134px}.MARSHMALLOW_WIN13{background:url(/logos/2024/halloween24/rc1/ghosts-sprite.png) -1752px -1384px/2042px 1676px no-repeat;width:143px;height:134px}.MARSHMALLOW_WIN14_size {
   width: 143px;
   height: 134px;

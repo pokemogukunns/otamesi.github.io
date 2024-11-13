@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSONデータ表示</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #response {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            white-space: pre-wrap; /* 改行をそのまま表示 */
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>サーバーからのレスポンス</h1>
+    <button id="loadDataButton">データを取得</button>
+
+    <div id="response">
+        <!-- JSONレスポンスがここに表示されます -->
+    </div>
+
+    <script>
+        document.getElementById('loadDataButton').addEventListener('click', function() {
+            // サーバーにGETリクエストを送信
+            fetch('https://yuki-azalea-1.easterndns.com/word', {
+                method: 'GET', // GETメソッドを使用
+                headers: {
+                    'Content-Type': 'application/json' // サーバーにJSON形式をリクエスト
+                }
+            })
+            .then(response => response.json())  // レスポンスをJSONとしてパース
+            .then(data => {
+                // JSONデータをレスポンス部分に表示
+                document.getElementById('response').textContent = JSON.stringify(data, null, 2);
+            })
+            .catch(error => {
+                // エラーハンドリング
+                console.error('リクエストに失敗しました:', error);
+                document.getElementById('response').textContent = 'データの取得に失敗しました。';
+            });
+        });
+    </script>
+</body>
+</html>

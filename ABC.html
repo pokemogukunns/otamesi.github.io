@@ -28,12 +28,13 @@
 
     <script>
         document.getElementById('loadDataButton').addEventListener('click', function() {
-            // サーバーにGETリクエストを送信
+            // サーバーにPOSTリクエストを送信
             fetch('https://yuki-azalea-1.easterndns.com/word', {
-                method: 'GET', // GETメソッドを使用
+                method: 'POST', // メソッドをPOSTに変更
                 headers: {
-                    'Content-Type': 'application/json' // サーバーにJSON形式をリクエスト
-                }
+                    'Content-Type': 'application/json', // JSONを送信
+                },
+                body: JSON.stringify({})  // 必要なデータを空のJSONで送信（データが必要な場合はここに入れる）
             })
             .then(response => response.json())  // レスポンスをJSONとしてパース
             .then(data => {
@@ -49,3 +50,4 @@
     </script>
 </body>
 </html>
+

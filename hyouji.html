@@ -1,0 +1,15 @@
+
+
+
+
+<script>
+fetch('https://kakatube.vercel.app/download')
+  .then(response => response.text())  // レスポンスをテキストとして取得
+  .then(data => {
+    console.log(data);  // レスポンスデータをそのまま表示
+    document.body.innerHTML = `<pre>${data}</pre>`;  // ページにも表示
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
+</script>

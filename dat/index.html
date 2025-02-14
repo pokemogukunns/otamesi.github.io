@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>.datファイルエディタ</title>
+</head>
+<body>
+    <h1>.datファイルエディタ</h1>
+
+    <!-- ファイルアップロード -->
+    <input type="file" id="file-input" accept=".dat">
+
+    <br>
+
+    <!-- 編集フォーム -->
+    <h2>編集内容</h2>
+    <textarea id="file-content" rows="10" cols="50" readonly></textarea>
+
+    <br>
+
+    <!-- 保存ボタン -->
+    <button id="save-btn">保存</button>
+
+    <script>
+        // ファイル読み込み
+        document.getElementById('file-input').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            const reader = new FileReader();
+
+            reader.onload = function(event) {
+                const content = event.target.result;
+                document.getElementById('file-content').value = content; // ファイル内容を表示
+            };
+
+            reader.readAsText(file);
+        });
+
+        // ファイル保存
+        document.getElementById('save-btn').addEventListener('click', function() {
+            const content = document.getElementById('file-content').value;
+            const blob = new Blob([content], { type: 'application/octet-stream' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'edited_file.dat';
+            a.click();
+            URL.revokeObjectURL(url); // URLの解放
+        });
+    </script>
+</body>
+</html>

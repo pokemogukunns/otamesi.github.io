@@ -29,17 +29,26 @@
             const reader = new FileReader();
 
             reader.onload = function(event) {
-                const content = event.target.result;
-                document.getElementById('file-content').value = content; // ファイル内容を表示
+                const arrayBuffer = event.target.result;
+                const byteArray = new Uint8Array(arrayBuffer);
+                
+                // バイナリデータを文字列に変換
+                let textContent = '';
+                for (let i = 0; i < byteArray.length; i++) {
+                    textContent += String.fromCharCode(byteArray[i]);
+                }
+                
+                document.getElementById('file-content').value = textContent; // ファイル内容を表示
             };
 
-            reader.readAsText(file);
+            reader.readAsArrayBuffer(file); // バイナリデータとして読み込む
         });
 
         // ファイル保存
         document.getElementById('save-btn').addEventListener('click', function() {
             const content = document.getElementById('file-content').value;
-            const blob = new Blob([content], { type: 'application/octet-stream' });
+            const byteArray = new TextEncoder().encode(content); // テキストをバイナリデータに変換
+            const blob = new Blob([byteArray], { type: 'application/octet-stream' });
             const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;

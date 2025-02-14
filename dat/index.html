@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>.datファイルエディタ</title>
+    <title>Minecraft .datファイルエディタ</title>
+    <script src="https://cdn.jsdelivr.net/npm/nbt-js@1.0.1"></script>
 </head>
 <body>
-    <h1>.datファイルエディタ</h1>
+    <h1>Minecraft .datファイルエディタ</h1>
 
     <!-- ファイルアップロード -->
     <input type="file" id="file-input" accept=".dat">
@@ -14,8 +15,8 @@
     <br>
 
     <!-- 編集フォーム -->
-    <h2>編集内容</h2>
-    <textarea id="file-content" rows="10" cols="50" readonly></textarea>
+    <h2>NBTデータ（JSON）</h2>
+    <textarea id="file-content" rows="15" cols="80"></textarea>
 
     <br>
 
@@ -23,7 +24,6 @@
     <button id="save-btn">保存</button>
 
     <script>
-        // ファイル読み込み
         document.getElementById('file-input').addEventListener('change', function(e) {
             const file = e.target.files[0];
             const reader = new FileReader();
@@ -31,30 +31,38 @@
             reader.onload = function(event) {
                 const arrayBuffer = event.target.result;
                 const byteArray = new Uint8Array(arrayBuffer);
-                
-                // バイナリデータを文字列に変換
-                let textContent = '';
-                for (let i = 0; i < byteArray.length; i++) {
-                    textContent += String.fromCharCode(byteArray[i]);
+
+                // NBTデータをパース
+                try {
+                    const nbtData = nbt.parseUncompressed(byteArray);
+                    document.getElementById('file-content').value = JSON.stringify(nbtData, null, 4);
+                } catch (error) {
+                    alert("NBTファイルの解析に失敗しました");
+                    console.error(error);
                 }
-                
-                document.getElementById('file-content').value = textContent; // ファイル内容を表示
             };
 
             reader.readAsArrayBuffer(file); // バイナリデータとして読み込む
         });
 
-        // ファイル保存
         document.getElementById('save-btn').addEventListener('click', function() {
             const content = document.getElementById('file-content').value;
-            const byteArray = new TextEncoder().encode(content); // テキストをバイナリデータに変換
-            const blob = new Blob([byteArray], { type: 'application/octet-stream' });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'edited_file.dat';
-            a.click();
-            URL.revokeObjectURL(url); // URLの解放
+            try {
+                const jsonData = JSON.parse(content);
+                const nbtData = nbt.writeUncompressed(jsonData);
+
+                // バイナリデータを保存
+                const blob = new Blob([nbtData], { type: 'application/octet-stream' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'edited_file.dat';
+                a.click();
+                URL.revokeObjectURL(url);
+            } catch (error) {
+                alert("NBTデータの保存に失敗しました");
+                console.error(error);
+            }
         });
     </script>
 </body>

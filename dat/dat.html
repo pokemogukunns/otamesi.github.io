@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft .datファイルエディタ</title>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.0.4/dist/pako.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/nbt-js@1.0.1"></script>
+</head>
+<body>
+    <h1>Minecraft .datファイルエディタ</h1>
+
+    <input type="file" id="file-input" accept=".dat">
+    <h2>NBTデータ（JSON）</h2>
+    <textarea id="file-content" rows="15" cols="80"></textarea>
+    <button id="save-btn">保存</button>
+
+    <script>
+        document.getElementById('file-input').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            const reader = new FileReader();
+
+            reader.onload = function(event) {
+                const arrayBuffer = event.target.result;
+                const byteArray = new Uint8Array(arrayBuffer);
+
+                try {
+                    // Zlib解凍
+                    const decompressed = pako.inflate(byteArray);
+                    
+                    // NBTパース
+                    const nbtData = nbt.parseUncompressed(decompressed);
+                    document.getElementById('file-content').value = JSON.stringify(nbtData, null, 4);
+                } catch (error) {
+                    alert("NBTファイルの解析に失敗しました");
+                    console.error(error);
+                }
+            };
+
+            reader.readAsArrayBuffer(file);
+        });
+
+        document.getElementById('save-btn').addEventListener('click', function() {
+            const content = document.getElementById('file-content').value;
+            try {
+                const jsonData = JSON.parse(content);
+
+                // JSON → NBT変換
+                const nbtData = nbt.writeUncompressed(jsonData);
+
+                // Zlib圧縮
+                const compressed = pako.deflate(nbtData);
+
+                // バイナリデータ保存
+                const blob = new Blob([compressed], { type: 'application/octet-stream' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'edited_file.dat';
+                a.click();
+                URL.revokeObjectURL(url);
+            } catch (error) {
+                alert("NBTデータの保存に失敗しました");
+                console.error(error);
+            }
+        });
+    </script>
+</body>
+</html>
